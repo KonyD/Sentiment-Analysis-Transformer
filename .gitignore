@@ -1,32 +1,24 @@
-# Byte-compiled / optimized / DLL files
+# Python-related files
+*.pyc
+*.pyo
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Environment variables and virtual environment
-.env
 *.env
-venv/
-.venv/
+.env
+
+# Spyder project files
+.spyproject/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# Cache files
-*.cache
-*.log
+# Virtual environment folders
+venv/
+.env/
 
-# TensorFlow SavedModel and checkpoints
-saved_model/
-checkpoint
-*.ckpt
-*.ckpt.*
+# IDE settings
+.vscode/
+.idea/
 
-# Pip and package manager
-*.egg-info/
-dist/
-build/
-
-# OS-specific files
+# System files
 .DS_Store
 Thumbs.db
