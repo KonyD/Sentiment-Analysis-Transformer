@@ -41,9 +41,9 @@ pip install -r requirements.txt
 Training and validation metrics are plotted after training:
 
 - **Loss vs Epochs**
-![Training Loss and Validation Loss](./Figure%202025-01-27%20165720.png)
+![Training Loss and Validation Loss](./plots/Figure%202025-01-27%20165720.png)
 - **Accuracy vs Epochs**
-![Training Loss and Validation Loss](./Figure%202025-01-27%20165742.png)
+![Training Loss and Validation Loss](./plots/Figure%202025-01-27%20165742.png)
 
 ## ✍️ Example Output
 
