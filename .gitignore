@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and virtual environment
+.env
+*.env
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Cache files
+*.cache
+*.log
+
+# TensorFlow SavedModel and checkpoints
+saved_model/
+checkpoint
+*.ckpt
+*.ckpt.*
+
+# Pip and package manager
+*.egg-info/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
